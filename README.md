@@ -7,9 +7,7 @@
 - 📚 Sou estudante de Engenharia da Computação na UFSC
 ##
 <div align="center">
-  <a href="https://github.com/igorpereiradc">
-  <img width ="48%" src="https://github-readme-stats.vercel.app/api?username=igorpereiradc&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorpereiradc&layout=compact&langs_count=7&theme=dark"/>
+ 
 </div>
 
 <div style="display: inline_block"><br>
