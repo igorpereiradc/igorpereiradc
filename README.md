@@ -1,9 +1,8 @@
 ###  Opaa, eu sou o Igor! 👋
 
-- 🔥 Estudando HTML,CSS,Java
-- 🚀 Sempre pronto para novos projetos
-- 📫 Contate-me no email : igorpereiradc15@outlook.com
 - 📚 Sou estudante de Engenharia da Computação na UFSC
+- 📫 Contate-me no email : igorpereiradc15@outlook.com
+
 ##
 <div align="center">
   <a href="https://github.com/igorpereiradc">
