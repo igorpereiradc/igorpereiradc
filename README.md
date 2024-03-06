@@ -1,7 +1,6 @@
 ###  Opaa, eu sou o Igor! 👋
 
-- 🧑‍💼 Atualmente trabalho como estágiario 
-- 🔥 Estudando PHP,HTML E C
+- 🔥 Estudando HTML,CSS,Java
 - 🚀 Sempre pronto para novos projetos
 - 📫 Contate-me no email : igorpereiradc15@outlook.com
 - 📚 Sou estudante de Engenharia da Computação na UFSC
