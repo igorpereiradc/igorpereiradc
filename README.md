@@ -1,4 +1,4 @@
-###  Opaa, eu sou o Igor! 👋
+###  Opa, eu sou o Igor! 👋
 
 - 📚 Sou estudante de Engenharia da Computação na UFSC
 - 📫 Contate-me no email : igorpereiradc15@outlook.com
