@@ -21,6 +21,11 @@ Atuar como desenvolvedor júnior e continuar ampliando minhas habilidades em bac
 
 ---
 
+### 📫 Contato
+- **LinkedIn:** https://www.linkedin.com/in/igor-pereira-6ba755392/
+
+---
+
 ### 📊 Estatísticas
 
 <p>
@@ -41,5 +46,3 @@ Atuar como desenvolvedor júnior e continuar ampliando minhas habilidades em bac
 
 </p>
 
-### 📫 Contato
-- **LinkedIn:** https://www.linkedin.com/in/igor-pereira-6ba755392/
