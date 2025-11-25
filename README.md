@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Igor
 
-<!--
-**igorpereiradc/igorpereiradc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor Web em formação  
+🚀 Experiência com PHP, HTML, CSS, JavaScript e MySQL  
+📚 Buscando oportunidade como Desenvolvedor Júnior  
+👀 Estudante de Engenharia da Computação na UFSC
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias
+
+- **Front-end:** HTML, CSS, JavaScript  
+- **Back-end:** PHP  
+- **Banco de dados:** MySQL  
+- **Ferramentas:** Git, GitHub, VSCode
+
+---
+
+### 📈 Objetivo
+Atuar como desenvolvedor júnior e continuar ampliando minhas habilidades em backend e aplicações web.
+
+---
+
+### 📫 Contato
+- **LinkedIn:** https://www.linkedin.com/in/igor-pereira-6ba755392/
