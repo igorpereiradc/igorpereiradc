@@ -94,8 +94,11 @@ Atuar como desenvolvedor júnior e continuar ampliando minhas habilidades em bac
 />
 
 
+
 ---
----
+
+
+
 ### 📊 Estatísticas
 
 <p>
